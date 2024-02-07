@@ -1,0 +1,14 @@
+table {
+    margin-top: 70px;
+}
+#data-table{
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+}
+
+#data-table th,
+#data-table td {
+    border: 1px solid #ddd; /* Màu và độ dày đường viền */
+    padding: 8px; /* Khoảng cách giữa nội dung và đường viền */
+    text-align: left; /* Căn lề nội dung */
+  }
