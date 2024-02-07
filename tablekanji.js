@@ -1,4 +1,3 @@
-// Mảng chứa dữ liệu của mỗi hàng, mỗi phần tử là một mảng chứa dữ liệu của một hàng
 var rowDataArray = [
   // ["日", "nhật, mặt trời, ngày", "ニチ,ジツ nichi, jitsuひ hi, bi]
 
